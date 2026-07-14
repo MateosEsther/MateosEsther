@@ -37,7 +37,7 @@ Actualmente busco mi primera oportunidad profesional para seguir creciendo como 
 
 📧 **Email:** mateos.sthr@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/esther-mateos0227a883
+💼 **LinkedIn:** https://www.linkedin.com/in/esther-mateos-0227a883/
 
 ---
 
