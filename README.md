@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hola, soy Esther 
 
-<!--
-**MateosEsther/MateosEsther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recién titulada en Desarrollo de Aplicaciones Web (DAW).
 
-Here are some ideas to get you started:
+Disfruto aprendiendo y descubriendo nuevas tecnologías. Durante mi formación he trabajado con HTML, CSS, Java, JavaScript, PHP y MySQL. Además, de forma autodidacta, continúo ampliando mis conocimientos con herramientas como React, TypeScript, PostgreSQL y Supabase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente busco mi primera oportunidad profesional para seguir creciendo como desarrolladora, colaborar en nuevos proyectos y afrontar nuevos retos.
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Técnica Superior en Desarrollo de Aplicaciones Web
+- 💻 Interesada en el desarrollo web moderno
+- 🌱 Actualmente aprendiendo React, TypeScript y Supabase
+- 📍 España
+
+---
+## 💻 Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,react,mysql,postgres,docker,git,github,vscode,wordpress" />
+</p>
+
+---
+
+## 🌱 Actualmente
+
+- 📚 Aprendiendo React y TypeScript
+- 🗄️ Experimentando con PostgreSQL y Supabase
+- 🚀 Buscando mi primera oportunidad como desarrolladora web
+
+
+---
+
+## 📈 Estadísticas
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MateosEsther&show_icons=true&theme=tokyonight)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MateosEsther&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Contacto
+
+📧 **Email:** mateos.sthr@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/esther-mateos0227a883
+
+---
+
+✨ Siempre abierta a nuevas oportunidades, proyectos y aprendizajes que me permitan seguir creciendo como desarrolladora.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MateosEsther&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views" />
+</p>
