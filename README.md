@@ -33,14 +33,6 @@ Actualmente busco mi primera oportunidad profesional para seguir creciendo como 
 
 ---
 
-## 📈 Estadísticas
-
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MateosEsther&show_icons=true&theme=tokyonight)
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MateosEsther&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Contacto
 
 📧 **Email:** mateos.sthr@gmail.com
